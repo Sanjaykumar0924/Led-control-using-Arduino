@@ -68,6 +68,7 @@ Weighing Machines </br>
 
 ## PROGRAM
 
+```
 const int buttonPin=7;
 
 const int ledPin=13;
@@ -99,7 +100,7 @@ void loop() {
   }
 
 }
-
+```
 
 ## OUTPUT
 <img width="1378" height="911" alt="Screenshot 2026-03-10 112336" src="https://github.com/user-attachments/assets/6c23e177-121d-4e11-a066-131f6c23ea1f" />
