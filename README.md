@@ -103,10 +103,10 @@ void loop() {
 
 ## OUTPUT
 <img width="1378" height="911" alt="Screenshot 2026-03-10 112336" src="https://github.com/user-attachments/assets/6c23e177-121d-4e11-a066-131f6c23ea1f" />
-##PUSH BUTTON ON
+## PUSH BUTTON ON
 
 <img width="1378" height="908" alt="Screenshot 2026-03-10 112343" src="https://github.com/user-attachments/assets/18ceeae8-4b90-44d1-9709-4d592dc7e054" />
-##PUSH BUTTON OFF
+## PUSH BUTTON OFF
 
 
 ## RESULT
