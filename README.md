@@ -1,6 +1,7 @@
 # Led-control-using-Arduino
 
-NAME :SANJAY KUMAR H
+NAME:SANJAY KUMAR H
+
 REG NO:212223040182
 
 ## AIM
